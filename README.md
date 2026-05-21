@@ -1,10 +1,9 @@
-# my-first-repo
+# Introduction to English Grammar
 
-A practice sandbox for the **AWS MLU Faculty Fellowship** at Delaware State University, College of Agriculture, Science & Technology.
-
+A practice sandbox for the **English 210: Introduction to English Grammar Class** at Bowie State University, College of Arts and Sciences
 > This repository exists so you can fork it, edit it, and make your first commit — all in the browser. It is intentionally small and friendly.
 
-## Welcome, faculty.
+## Welcome, students.
 
 You are looking at the repository you will fork in **Workshop One: Git in the Browser**. After you click the **Fork** button, this becomes *your* version. Anything you change in your fork stays in your fork. The original is untouched.
 
@@ -59,3 +58,4 @@ The async help channel and office-hours link are pinned in the workshop chat. If
 ---
 
 *AWS MLU × DSU*
+I need to come back and edit this!
